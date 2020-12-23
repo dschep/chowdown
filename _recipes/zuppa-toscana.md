@@ -32,4 +32,4 @@ directions:
 
 ---
 
-from https://www.thechunkychef.com/slow-cooker-zuppa-toscana/
+from [https://www.thechunkychef.com/slow-cooker-zuppa-toscana/](https://www.thechunkychef.com/slow-cooker-zuppa-toscana/)
