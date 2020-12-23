@@ -1,13 +1,13 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+title: Chef Schep
+email: dschep@gmail.com
+description: Sarah and Daniel's recipe book
+baseurl: "https://chef.schep.me"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: schep_
+github_username:  dschep
 
 # Build settings
 markdown: kramdown
