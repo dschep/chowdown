@@ -2,15 +2,16 @@
 
 layout: recipe
 title:  "Gratin Niçois (Gratin de courgette)"
-#image: zuppa-toscana.jpg
+#image: gratin-nicois.jpg
 tags: dinner, french, gratin, zucchini
 
 ingredients:
-- 3 zucchini
-- 1/2 onion
-- 3/4 cup milk
-- 1 eggs dependion
-- 1-2 cloves of garlic
+- 2 large or 3 medium zucchini
+- 1 medium onion
+- 2/3 cup rice
+- 1 cup milk
+- 2 eggs
+- 2 cloves of garlic
 - bread crumbs
 - olive oil
 
