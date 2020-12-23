@@ -19,7 +19,6 @@ ingredients:
 - Pinch of red pepper flakes. - optional
 
 directions:
-- 
 - Heat large skillet over medium high heat and brown sausage.  Drain.
 - Fry bacon and set aside to a plate.
 - Add onion and minced garlic and cook slightly.
