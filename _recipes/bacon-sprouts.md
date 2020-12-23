@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Brussels Sprouts w/bacon"
 image: bacon-sprouts.jpg
-tags: dinner, french, gratin, zucchini
+tags: dinner, brussels sprouts, sprouts, bacon
 
 ingredients:
 - 1/2 lb sliced bacon
