@@ -17,4 +17,4 @@ directions:
 
 ---
 
-A simple sausage gravy, perfect for buiscits and gravy
+A simple sausage gravy, perfect for biscuits and gravy. From https://www.foodnetwork.com/recipes/sausage-gravy-2145820.amp
