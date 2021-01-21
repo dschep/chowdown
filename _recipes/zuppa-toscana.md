@@ -20,13 +20,13 @@ ingredients:
 
 directions:
 - Heat large skillet over medium high heat and brown sausage.  Drain.
-- Fry bacon and set aside to a plate.
 - Add onion and minced garlic and cook slightly.
 - Add sausage, onion and garlic to the bottom of slow cooker.
 - Add peeled potatoes, cover with chicken stock and water (if necessary) to completely cover potatoes and sausage.
 - Cover and cook on LOW for 5-6 hours or HIGH for 3-4 (potatoes should be soft)
 - Before serving, whisk together heavy cream and cornstarch or flour until well mixed. Pour into slow cooker, add kale and stir to combine.
 - Cover and cook on HIGH for 30 minutes until soup has thickened slightly.
+- Fry bacon and set aside to a plate.
 - Taste, season according to your tastes, top with bacon, and serve.
 
 
