@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Spicy Chicnken and Sweet Potatoes"
+title:  "Spicy Chicken and Sweet Potatoes"
 tags: dinner, chicken, sweet potatoes
 
 ingredients:
