@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Creamy sundried tomato chicken
+title:  "Creamy sundried tomato chicken"
 tags: dinner, chicken, tomato
 
 ingredients:
