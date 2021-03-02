@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Creamy sundried tomato chicken"
 tags: dinner, chicken, tomato
+image: tomatochicken.jpg
 
 ingredients:
 - 3-4 large chicken breasts
