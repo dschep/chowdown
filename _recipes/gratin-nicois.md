@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Gratin Niçois (Gratin de courgette)"
-#image: gratin-nicois.jpg
+image: gratinnicois.jpg
 tags: dinner, french, gratin, zucchini
 
 ingredients:
